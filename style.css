@@ -1,0 +1,26 @@
+html{ background-color: rgba(0, 183, 255, 0.878);
+
+}
+ body {
+    font-family: sans-serif;
+
+
+}
+h2{
+    color: rgb(225, 255, 0);
+    font-weight: 900;
+    
+
+}
+/*h1 {color: crimson;
+
+}/*/
+
+h1 {
+    color: red;
+    /*background: brown;*/
+    font-size :xx-large;
+}
+h3 {
+    color: yellow;
+}
